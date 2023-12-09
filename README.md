@@ -1,8 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- blog-11-3b499.firebaseapp.com uses(blog-11-3b499.firebaseapp.com) for Fast Refresh
 
-Currently, two official plugins are available:
+- https://654caad1fa1abc697df4619b--grand-otter-8235ff.netlify.app/ uses( https://654caad1fa1abc697df4619b--grand-otter-8235ff.netlify.app/ ) for Fast Refresh
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- project Fetuers
+- user can login with email and password.
+- user can add blogs on her wishlist .
+- user can comment on blog.
+- blog woner can not comment on her won blog.
+- woner can update her blog
